@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_new.png",
+        "source": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\src\\main\\res\\drawable-mdpi\\icon_new.png"
+    },
+    {
+        "merged": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tab_dropbox.png",
+        "source": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\src\\main\\res\\drawable-mdpi\\tab_dropbox.png"
+    }
+]

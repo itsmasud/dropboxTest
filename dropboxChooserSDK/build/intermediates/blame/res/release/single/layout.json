@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\build\\intermediates\\res\\merged\\release\\layout\\bottom_bar_light.xml",
+        "source": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\src\\main\\res\\layout\\bottom_bar_light.xml"
+    },
+    {
+        "merged": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\build\\intermediates\\res\\merged\\release\\layout\\app_store_interstitial.xml",
+        "source": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\src\\main\\res\\layout\\app_store_interstitial.xml"
+    },
+    {
+        "merged": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\build\\intermediates\\res\\merged\\release\\layout\\bottom_buttons_light.xml",
+        "source": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\src\\main\\res\\layout\\bottom_buttons_light.xml"
+    }
+]

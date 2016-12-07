@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_light_gray.xml",
+        "source": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\src\\main\\res\\drawable\\common_button_light_gray.xml"
+    },
+    {
+        "merged": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_green.xml",
+        "source": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\src\\main\\res\\drawable\\common_button_green.xml"
+    },
+    {
+        "merged": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\common_bar_light_gray_bottom.xml",
+        "source": "D:\\Source\\Workspace\\ChooserExample\\dropboxChooserSDK\\src\\main\\res\\drawable\\common_bar_light_gray_bottom.xml"
+    }
+]
